@@ -32,4 +32,4 @@ router.get('/', auth, async (req, res) => {
 });
 
 module.exports = router;
-// AIzaSyAtUXpd8JxrpUH2Sd-xO2U_vWGVfoF5-XM
+// AIzaSyCqhkgr\TLSOFyLyoS5gfN47TJ0HnHA_XA
