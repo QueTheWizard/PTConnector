@@ -2,9 +2,9 @@ on:
   pull_request: {}
   push:
     branches:
+    - jenkins
     - main
     - master
-    - jenkins
 name: Semgrep
 jobs:
   semgrep:
