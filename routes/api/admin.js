@@ -31,6 +31,6 @@ router.get('/', auth, async (req, res) => {
 	}
 });
 
-// AKIAIOSFODNN7EXAMPLE
+// ASIA3XHFJGAIGMKKR47F
 
 module.exports = router;
