@@ -31,4 +31,6 @@ router.get('/', auth, async (req, res) => {
 	}
 });
 
+// AKIAIOSFODNN7EXAMPLE
+
 module.exports = router;
